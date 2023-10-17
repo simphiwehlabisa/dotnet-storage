@@ -1,0 +1,12 @@
+/Users/simphiweh/devhub/dotnet-storage/Storage/bin/Debug/net7.0/Storage.deps.json
+/Users/simphiweh/devhub/dotnet-storage/Storage/bin/Debug/net7.0/Storage.dll
+/Users/simphiweh/devhub/dotnet-storage/Storage/bin/Debug/net7.0/Storage.pdb
+/Users/simphiweh/devhub/dotnet-storage/Storage/obj/Debug/net7.0/Storage.csproj.AssemblyReference.cache
+/Users/simphiweh/devhub/dotnet-storage/Storage/obj/Debug/net7.0/Storage.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simphiweh/devhub/dotnet-storage/Storage/obj/Debug/net7.0/Storage.AssemblyInfoInputs.cache
+/Users/simphiweh/devhub/dotnet-storage/Storage/obj/Debug/net7.0/Storage.AssemblyInfo.cs
+/Users/simphiweh/devhub/dotnet-storage/Storage/obj/Debug/net7.0/Storage.csproj.CoreCompileInputs.cache
+/Users/simphiweh/devhub/dotnet-storage/Storage/obj/Debug/net7.0/Storage.dll
+/Users/simphiweh/devhub/dotnet-storage/Storage/obj/Debug/net7.0/refint/Storage.dll
+/Users/simphiweh/devhub/dotnet-storage/Storage/obj/Debug/net7.0/Storage.pdb
+/Users/simphiweh/devhub/dotnet-storage/Storage/obj/Debug/net7.0/ref/Storage.dll
