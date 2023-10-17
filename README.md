@@ -1,4 +1,4 @@
-# YourPackageName
+# dotnet-storage
 
 [![NuGet Version](https://img.shields.io/nuget/v/dotnet-storage)](https://www.nuget.org/packages/dotnet-storage/)
 [![License](https://img.shields.io/github/license/YourGitHubUsername/YourPackageName)](https://github.com/simphiwehlabisa/dotnet-storage/blob/main/LICENSE)
