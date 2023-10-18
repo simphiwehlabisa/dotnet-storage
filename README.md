@@ -1,7 +1,7 @@
 # dotnet-storage
 
 [![NuGet Version](https://img.shields.io/nuget/v/dotnet-storage)](https://www.nuget.org/packages/dotnet-storage/)
-[![License](https://img.shields.io/github/license/YourGitHubUsername/YourPackageName)](https://github.com/simphiwehlabisa/dotnet-storage/blob/main/LICENSE.md)
+[![License](https://img.shields.io/github/license/YourGitHubUsername/YourPackageName)](https://github.com/simphiwehlabisa/dotnet-storage/blob/main/LICENSE)
 
 dotnet-storage is a .NET library that provides file storage functionality for ASP.NET Core applications.
 
