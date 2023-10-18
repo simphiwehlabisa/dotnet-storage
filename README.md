@@ -107,3 +107,22 @@ public class SampleController : ControllerBase
     }
 }
 ```
+
+### Here's an api call using curl
+
+```curl
+curl -X 'POST' \
+  'https://localhost:7151/api/Sample' \
+  -H 'accept: */*' \
+  -H 'Content-Type: multipart/form-data' \
+  -F 'file=@8fb41467-6983-478a-9086-260cb0a12782.jpeg;type=image/jpeg'
+```
+
+
+### response
+
+```json
+{
+  "filePath": "uploads/04bdc90d-ad2a-4079-9c11-424be8aa02e3.jpeg"
+}
+```
