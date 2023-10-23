@@ -16,8 +16,22 @@ Open your terminal and navigate to your ASP.NET Core project directory. Run the 
 ```bash
 dotnet add package dotnet-storage
 ```
+### Configuration program.cs
+It is Very important to configure the package in startup/program.cs.
+This will allow the package to work properly
+```csharp
+// Configuration from appsettings.json
+builder.Services.Configure<StorageConfiguration>(builder.Configuration.GetSection("StorageSettings"));
 
-## Configuration via appsettings.json
+// Register your storage drivers
+builder.Services.AddTransient<LocalFileSystemStorageDriver>();
+builder.Services.AddTransient<AmazonS3StorageDriver>();
+
+// Register the StorageService
+builder.Services.AddTransient<IStorageService, StorageService>();
+```
+
+### Configuration via appsettings.json
 
 You can configure dotnet-storage by adding settings to your `appsettings.json` file. The following settings are available:
 
