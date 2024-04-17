@@ -51,4 +51,9 @@ public class LocalFileSystemStorageDriver : IStorageDriver
             File.Delete(fullPath);
         }
     }
+
+    public void ChangeBucketName(string newBucketName)
+    {
+        throw new NotImplementedException();
+    }
 }

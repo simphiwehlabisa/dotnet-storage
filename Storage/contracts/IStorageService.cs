@@ -20,4 +20,5 @@ public interface IStorageService
     /// </summary>
     /// <param name="filePath">The path of the file to delete.</param>
     Task DeleteAsync(string filePath);
+    void ChangeBucketName(string newBucketName);
 }
